@@ -1,1 +1,1 @@
-# night-lighter-rhino
+Макет ночника
